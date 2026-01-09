@@ -1,0 +1,8 @@
+{
+  "name": "PORPOLIO của PHÚC",
+  "description": "A high-end, minimalist portfolio inspired by arocksworld.com, featuring bold typography, smooth transitions, and a dark aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
