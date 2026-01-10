@@ -139,7 +139,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/phuc252005/portfolio-thienphuc.git
 
 # Navigate to the project directory
 cd portfolio
